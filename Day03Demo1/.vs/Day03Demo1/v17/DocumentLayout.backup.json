@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day03demo1\\day03demo1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|solutionrelative:day03demo1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day03demo1\\day03demo1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|solutionrelative:day03demo1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day03demo1\\day03demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|solutionrelative:day03demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day03demo1\\day03demo1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|solutionrelative:day03demo1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day03demo1\\day03demo1\\views\\shared\\components\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|solutionrelative:day03demo1\\views\\shared\\components\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day03demo1\\day03demo1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|solutionrelative:day03demo1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day03demo1\\day03demo1\\views\\shared\\day03demo1bar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|solutionrelative:day03demo1\\views\\shared\\day03demo1bar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day03demo1\\day03demo1\\views\\shared\\day03demo1leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|solutionrelative:day03demo1\\views\\shared\\day03demo1leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day03demo1\\day03demo1\\views\\shared\\day03demo1footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|solutionrelative:day03demo1\\views\\shared\\day03demo1footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day03demo1\\day03demo1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|solutionrelative:day03demo1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day03demo1\\day03demo1\\views\\home\\day03demo1loop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|solutionrelative:day03demo1\\views\\home\\day03demo1loop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day03demo1\\day03demo1\\views\\home\\day03demo1lf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|solutionrelative:day03demo1\\views\\home\\day03demo1lf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day03demo1\\day03demo1\\views\\home\\day03demo1about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|solutionrelative:day03demo1\\views\\home\\day03demo1about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day03demo1\\day03demo1\\viewcomponents\\catagoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|solutionrelative:day03demo1\\viewcomponents\\catagoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day03demo1\\day03demo1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|solutionrelative:day03demo1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day03demo1\\day03demo1\\views\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|solutionrelative:day03demo1\\views\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day03demo1\\day03demo1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17270965-46A5-417F-BC5C-0FC40C954B35}|Day03Demo1\\Day03Demo1.csproj|solutionrelative:day03demo1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day03Demo1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Day03Demo1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:59:05.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Day03Demo1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Day03Demo1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:59:02.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Program.cs",
+              "RelativeDocumentMoniker": "Day03Demo1\\Program.cs",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Program.cs",
+              "RelativeToolTip": "Day03Demo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T08:58:57.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Day03Demo1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Day03Demo1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:53:06.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Day03Demo1Bar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Shared\\Day03Demo1Bar.cshtml",
+              "RelativeDocumentMoniker": "Day03Demo1\\Views\\Shared\\Day03Demo1Bar.cshtml",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Shared\\Day03Demo1Bar.cshtml",
+              "RelativeToolTip": "Day03Demo1\\Views\\Shared\\Day03Demo1Bar.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:51:04.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Day03Demo1LeftMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Shared\\Day03Demo1LeftMenu.cshtml",
+              "RelativeDocumentMoniker": "Day03Demo1\\Views\\Shared\\Day03Demo1LeftMenu.cshtml",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Shared\\Day03Demo1LeftMenu.cshtml",
+              "RelativeToolTip": "Day03Demo1\\Views\\Shared\\Day03Demo1LeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:50:29.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Day03Demo1Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Shared\\Day03Demo1Footer.cshtml",
+              "RelativeDocumentMoniker": "Day03Demo1\\Views\\Shared\\Day03Demo1Footer.cshtml",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Shared\\Day03Demo1Footer.cshtml",
+              "RelativeToolTip": "Day03Demo1\\Views\\Shared\\Day03Demo1Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:48:38.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Shared\\Components\\Default.cshtml",
+              "RelativeDocumentMoniker": "Day03Demo1\\Views\\Shared\\Components\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Shared\\Components\\Default.cshtml",
+              "RelativeToolTip": "Day03Demo1\\Views\\Shared\\Components\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:35:44.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Day03Demo1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Models\\Category.cs",
+              "RelativeToolTip": "Day03Demo1\\Models\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T08:23:35.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Day03Demo1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Day03Demo1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:31:05.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Day03Demo1Loop.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Home\\Day03Demo1Loop.cshtml",
+              "RelativeDocumentMoniker": "Day03Demo1\\Views\\Home\\Day03Demo1Loop.cshtml",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Home\\Day03Demo1Loop.cshtml",
+              "RelativeToolTip": "Day03Demo1\\Views\\Home\\Day03Demo1Loop.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:44:57.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Day03Demo1lf.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Home\\Day03Demo1lf.cshtml",
+              "RelativeDocumentMoniker": "Day03Demo1\\Views\\Home\\Day03Demo1lf.cshtml",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Home\\Day03Demo1lf.cshtml",
+              "RelativeToolTip": "Day03Demo1\\Views\\Home\\Day03Demo1lf.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:44:14.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Day03Demo1About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Home\\Day03Demo1About.cshtml",
+              "RelativeDocumentMoniker": "Day03Demo1\\Views\\Home\\Day03Demo1About.cshtml",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Home\\Day03Demo1About.cshtml",
+              "RelativeToolTip": "Day03Demo1\\Views\\Home\\Day03Demo1About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:42:05.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CatagoryViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\ViewComponents\\CatagoryViewComponent.cs",
+              "RelativeDocumentMoniker": "Day03Demo1\\ViewComponents\\CatagoryViewComponent.cs",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\ViewComponents\\CatagoryViewComponent.cs",
+              "RelativeToolTip": "Day03Demo1\\ViewComponents\\CatagoryViewComponent.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T08:34:34.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Index1.cshtml",
+              "RelativeDocumentMoniker": "Day03Demo1\\Views\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Views\\Index1.cshtml",
+              "RelativeToolTip": "Day03Demo1\\Views\\Index1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:25:58.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Day03Demo1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Day03Demo1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T08:22:30.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Day03Demo1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day03Demo1\\Day03Demo1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Day03Demo1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-20T08:24:01.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
