@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vanyzy\\source\\Code\\Day05Demo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B54C25E-8992-4294-9F2A-1EF6E330E296}|Day05Demo1\\Day05Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day05demo1\\day05demo1\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B54C25E-8992-4294-9F2A-1EF6E330E296}|Day05Demo1\\Day05Demo1.csproj|solutionrelative:day05demo1\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B54C25E-8992-4294-9F2A-1EF6E330E296}|Day05Demo1\\Day05Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day05demo1\\day05demo1\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B54C25E-8992-4294-9F2A-1EF6E330E296}|Day05Demo1\\Day05Demo1.csproj|solutionrelative:day05demo1\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B54C25E-8992-4294-9F2A-1EF6E330E296}|Day05Demo1\\Day05Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day05demo1\\day05demo1\\views\\member\\getmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B54C25E-8992-4294-9F2A-1EF6E330E296}|Day05Demo1\\Day05Demo1.csproj|solutionrelative:day05demo1\\views\\member\\getmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B54C25E-8992-4294-9F2A-1EF6E330E296}|Day05Demo1\\Day05Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day05demo1\\day05demo1\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B54C25E-8992-4294-9F2A-1EF6E330E296}|Day05Demo1\\Day05Demo1.csproj|solutionrelative:day05demo1\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B54C25E-8992-4294-9F2A-1EF6E330E296}|Day05Demo1\\Day05Demo1.csproj|c:\\users\\vanyzy\\source\\code\\day05demo1\\day05demo1\\models\\datamodels\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B54C25E-8992-4294-9F2A-1EF6E330E296}|Day05Demo1\\Day05Demo1.csproj|solutionrelative:day05demo1\\models\\datamodels\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day05Demo1\\Day05Demo1\\Views\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "Day05Demo1\\Views\\Member\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day05Demo1\\Day05Demo1\\Views\\Member\\Create.cshtml",
+              "RelativeToolTip": "Day05Demo1\\Views\\Member\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T09:59:21.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetMember.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day05Demo1\\Day05Demo1\\Views\\Member\\GetMember.cshtml",
+              "RelativeDocumentMoniker": "Day05Demo1\\Views\\Member\\GetMember.cshtml",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day05Demo1\\Day05Demo1\\Views\\Member\\GetMember.cshtml",
+              "RelativeToolTip": "Day05Demo1\\Views\\Member\\GetMember.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T09:43:20.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day05Demo1\\Day05Demo1\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day05Demo1\\Views\\Member\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day05Demo1\\Day05Demo1\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "Day05Demo1\\Views\\Member\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T09:37:31.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day05Demo1\\Day05Demo1\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Day05Demo1\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day05Demo1\\Day05Demo1\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Day05Demo1\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:35:00.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Vanyzy\\source\\Code\\Day05Demo1\\Day05Demo1\\Models\\DataModels\\Member.cs",
+              "RelativeDocumentMoniker": "Day05Demo1\\Models\\DataModels\\Member.cs",
+              "ToolTip": "C:\\Users\\Vanyzy\\source\\Code\\Day05Demo1\\Day05Demo1\\Models\\DataModels\\Member.cs",
+              "RelativeToolTip": "Day05Demo1\\Models\\DataModels\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:33:01.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
