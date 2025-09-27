@@ -1,0 +1,117 @@
+﻿@{
+    Layout = null;
+    ViewBag.Title = "ShoeStore - Trang chủ";
+}
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewBag.Title</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="@Url.Action("Index", "Home")">ShoeStore</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="mainNavbar">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("Index", "Home")">Trang chủ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("GioiThieu", "Home")">Giới thiệu</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("LienHe", "Home")">Liên hệ</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Carousel -->
+    <div id="mainCarousel" class="carousel slide mb-4" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="0" class="active"></button>
+            <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="1"></button>
+            <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="2"></button>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="~/images/1.jpg" class="d-block w-100" alt="Giày đẹp 1" />
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Giày thể thao</h5>
+                    <p>Thoải mái - Năng động - Thời trang</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="~/images/2.jpg" class="d-block w-100" alt="Giày đẹp 2" />
+            </div>
+            <div class="carousel-item">
+                <img src="~/images/3.jpg" class="d-block w-100" alt="Giày đẹp 3" />
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#mainCarousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#mainCarousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </button>
+    </div>
+
+    <!-- Main content -->
+    <main class="container">
+        @RenderBody()
+    </main>
+
+    <!-- Footer -->
+    <footer class="border-top footer text-muted mt-4">
+        <div class="container py-3">
+            <div class="row">
+                <div class="col-md-3">
+                    <h6>Application uses</h6>
+                    <ul>
+                        <li>ASP.NET MVC</li>
+                        <li>Bootstrap</li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <h6>How to</h6>
+                    <ul>
+                        <li><a href="#">Thêm Controller và View</a></li>
+                        <li><a href="#">Dùng Entity Framework</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <h6>Overview</h6>
+                    <ul>
+                        <li>Giới thiệu về ASP.NET Core</li>
+                        <li>Bảo mật và Middleware</li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <h6>Run & Deploy</h6>
+                    <ul>
+                        <li>Chạy ứng dụng</li>
+                        <li>Deploy lên Azure</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

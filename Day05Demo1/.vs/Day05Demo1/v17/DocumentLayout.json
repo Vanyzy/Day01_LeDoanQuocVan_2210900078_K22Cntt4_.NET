@@ -42,8 +42,7 @@
               "RelativeToolTip": "Day05Demo1\\Views\\Member\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T09:59:21.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T09:59:21.281Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "Day05Demo1\\Views\\Member\\GetMember.cshtml",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T09:43:20.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T09:43:20.213Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "Day05Demo1\\Views\\Member\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T09:37:31.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T09:37:31.843Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "Day05Demo1\\Models\\DataModels\\Member.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T09:33:01.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T09:33:01.138Z"
             }
           ]
         }
